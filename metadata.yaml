@@ -1,0 +1,28 @@
+_repo: The-flying-carpet_75229
+_version: 0.0.1
+creator:
+  editor:
+    agent_name: Asquith, Cynthia
+    gutenberg_agent_id: '57892'
+    url: http://www.gutenberg.org/2009/agents/57892
+description: ''
+gutenberg_issued: '2025-01-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '75229'
+language: en
+pgterms:marc904: https://hdl.handle.net/2027/uc1.b4098986
+pgterms:marc905: 20210219133728asquith
+pgterms:marc906: '1925'
+pgterms:marc907: US
+production_note: Richard Tonsing, Tim Lindell, and the Online Distributed Proofreading
+  Team at https://www.pgdp.net (This book was produced from images made available
+  by the HathiTrust Digital Library.)
+publication_note: '  $aNew York :$bCharles Scribner''s Sons, $c1925.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: The flying carpet
+url: http://www.gutenberg.org/ebooks/75229
